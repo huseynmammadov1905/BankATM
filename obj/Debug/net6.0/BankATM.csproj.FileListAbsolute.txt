@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\BankATM\BankATM\bin\Debug\net6.0\BankATM.exe
+C:\Users\memme\source\repos\BankATM\BankATM\bin\Debug\net6.0\BankATM.deps.json
+C:\Users\memme\source\repos\BankATM\BankATM\bin\Debug\net6.0\BankATM.runtimeconfig.json
+C:\Users\memme\source\repos\BankATM\BankATM\bin\Debug\net6.0\BankATM.dll
+C:\Users\memme\source\repos\BankATM\BankATM\bin\Debug\net6.0\BankATM.pdb
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\BankATM.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\BankATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\BankATM.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\BankATM.AssemblyInfo.cs
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\BankATM.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\BankATM.dll
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\refint\BankATM.dll
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\BankATM.pdb
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\BankATM.genruntimeconfig.cache
+C:\Users\memme\source\repos\BankATM\BankATM\obj\Debug\net6.0\ref\BankATM.dll
